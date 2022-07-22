@@ -1,14 +1,17 @@
 ## ASD Apple Script Launcher
 
+This script was created in order to install and start ASD without console operation.
+
 ## Preparation
 
-* Install and launch Docker
+* [Install](https://docs.docker.com/desktop/install/mac-install/) and launch Docker
 * Download [ASD launcher](https://github.com/alps-asd/launcher/archive/refs/tags/0.1.0.zip)
 
 ## Usage
 
-Open ASD on your Mac and select the ALPS file to install and run ASD.
-This script was created in order to install and start ASD without console operation.
+Open "asd" script first. And in the Script Editor app on your Mac, click the Run button in the toolbar, or press `Command-R`, to execute the commands in "asd" script.
+
+select the ALPS file to run ASD server.
 
 ## 事前準備
 
