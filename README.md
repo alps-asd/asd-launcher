@@ -5,20 +5,20 @@
 * [Install](https://docs.docker.com/desktop/install/mac-install/) and launch Docker
 * Download [ASD script](https://github.com/alps-asd/asd-launcher/archive/refs/tags/v1.zip)
 
-## How to install
+## Install
 
 * Double-click the `asd` script to open it in the script editor.
 * Select `File` > `Export..` and save it with location as `Application` and file format as `Application`.
 
 ## Run
 
-Double-click on asd in the Applications folder or drag & drop the ALPS file into the asd application.
+Open asd in the Applications folder or drag and drop the ALPS file into the asd application.
 
-## インストールの方法
+## インストール
 
 * `asd`スクリプトをダブルクリックしてスクリプトエディタで開きます。
-* ファイル > 書き出す.. を選択し、場所を｀アプリケーション`、ファイルフォーマットも`アプリケーション`にして保存します。
+* ファイル > 書き出す.. を選択し、場所を`アプリケーション`、ファイルフォーマットも`アプリケーション`にして保存します。
 
 ## 実行
 
-アプリケーションフォルダにあるasdをダブルクリックするか、ALPSファイルをasdアプリケーションにドラッグ＆ドロップしてください。
+アプリケーションフォルダにあるasdを開くか、ALPSファイルをasdアプリケーションにドラッグ＆ドロップしてください。
